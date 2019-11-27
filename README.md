@@ -1,3 +1,3 @@
 # IsaraCopy
-https://isara.life　
+https://isara.life
 の模写です。
